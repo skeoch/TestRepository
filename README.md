@@ -1,2 +1,2 @@
 # TestRepository
-My Test Repository
+This Repository is used for testing GitHub
